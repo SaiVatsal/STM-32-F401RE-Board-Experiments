@@ -1,0 +1,14 @@
+12:47:06 **** Incremental Build of configuration Debug for project 7segmentdisplay ****
+make -j12 all 
+arm-none-eabi-size  7segmentdisplay.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7256	     20	   1572	   8848	   2290	7segmentdisplay.elf
+Finished building: default.size.stdout
+ 
+12:47:10 **** Incremental Build of configuration Debug for project 7segmentdisplay ****
+make -j12 all 
+arm-none-eabi-size  7segmentdisplay.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7256	     20	   1572	   8848	   2290	7segmentdisplay.elf
+Finished building: default.size.stdout
+ 
